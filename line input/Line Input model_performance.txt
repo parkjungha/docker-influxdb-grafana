@@ -1,0 +1,5 @@
+model_performance,data="HVU1_급기_온도" RMSE=0.017725754 CvRMSE=0.01595 fitting_time=263 prediction_time=0.013
+model_performance,data="HVU1_환기_온도" RMSE=0.07632924,CvRMSE=0.07047,fitting_time=261,prediction_time=0.012
+model_performance,data="HVU1_혼합_온도" RMSE=0.043103634,CvRMSE=0.0414,fitting_time=230,prediction_time=0.012
+model_performance,data="HVU1_급기_습도" RMSE=0.054096152,CvRMSE=0.05518,fitting_time=266,prediction_time=0.012
+model_performance,data="외기온도" RMSE=0.039236361,CvRMSE=0.03935,fitting_time=278,prediction_time=0.012

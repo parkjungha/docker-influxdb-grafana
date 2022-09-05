@@ -4,9 +4,6 @@
 
 ![Grafana][grafana-version] ![Influx][influx-version] ![Chronograf][chronograf-version]
 
-[![Buy me a coffee][buymeacoffee-icon]][buymeacoffee]
-
-
 This is a Docker image based on the awesome [Docker Image with Telegraf (StatsD), InfluxDB and Grafana](https://github.com/samuelebistoletti/docker-statsd-influxdb-grafana) from [Samuele Bistoletti](https://github.com/samuelebistoletti).
 
 The main point of difference with this image is:

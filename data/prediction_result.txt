@@ -1,0 +1,9 @@
+############# Average prediction result #############
+data :     HVU1_급기_온도  |  avg_loss(CvRMSE) : 1.595%  |  avg_time(seconds) : 0.013
+data :     HVU1_환기_온도  |  avg_loss(CvRMSE) : 7.047%  |  avg_time(seconds) : 0.012
+data :     HVU1_혼합_온도  |  avg_loss(CvRMSE) : 4.19%  |  avg_time(seconds) : 0.012
+data :     HVU1_급기_습도  |  avg_loss(CvRMSE) : 5.518%  |  avg_time(seconds) : 0.012
+data :           외기온도  |  avg_loss(CvRMSE) : 3.935%  |  avg_time(seconds) : 0.012
+
+############# Total average prediction result #############
+total_avg_loss(CvRMSE) : 4.457%  |  total_avg_time(seconds) : 0.012

@@ -1,0 +1,10 @@
+Features 
+HVU1_급기_온도
+HVU1_환기_온도
+HVU1_혼합_온도
+HVU1_급기_습도
+외기온도
+
+LSTM 모델
+sequence length = 8
+sequence data 개수 = 2188
