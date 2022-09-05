@@ -1,0 +1,13 @@
+version: '3'
+services:
+  core:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 3003:3003
+      - 3004:8083
+      - 8087:8087
+    volumes:
+      - /path/for/influxdb:/var/lib/influxdb
+      - /path/for/grafana:/var/lib/grafana

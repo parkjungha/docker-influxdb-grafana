@@ -25,6 +25,9 @@ The main purpose of this image is to be used to show data from a [Home Assistant
 
 ## Quick Start
 
+### docker-compose
+docker-compose up -d
+
 To start the container with persistence you can use the following:
 
 ```sh
@@ -109,3 +112,4 @@ Port: 8086
 [grafana-version]: https://img.shields.io/badge/Grafana-7.2.0-brightgreen
 [influx-version]: https://img.shields.io/badge/Influx-1.8.2-brightgreen
 [chronograf-version]: https://img.shields.io/badge/Chronograf-1.8.6-brightgreen
+
